@@ -1,3 +1,6 @@
-node_modules/ 
-dist/ 
-.env 
+/target 
+*.log 
+*.iml 
+/.idea 
+/.vscode 
+application.properties 
